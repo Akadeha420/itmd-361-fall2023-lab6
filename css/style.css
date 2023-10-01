@@ -1,0 +1,35 @@
+td,
+th {
+  border: 1px solid white;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+tr.planet-images>td>img {
+  width: 250px;
+  height: 200px;
+}
+
+body {
+  background-image: url("../images/space.jpeg");
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.wrapper {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+tbody.facts>tr>td {
+  margin: 0.5em;
+  padding: 0.5em;
+}
